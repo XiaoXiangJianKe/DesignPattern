@@ -10,6 +10,7 @@ namespace StatePattern
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("状态模式");
         }
     }
 }
