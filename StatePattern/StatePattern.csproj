@@ -49,6 +49,13 @@
     <Compile Include="RoleSystem\Professional.cs" />
     <Compile Include="RoleSystem\Role.cs" />
     <Compile Include="RoleSystem\Secondary.cs" />
+    <Compile Include="TransmissionSystem\Closed.cs" />
+    <Compile Include="TransmissionSystem\Closing.cs" />
+    <Compile Include="TransmissionSystem\GateState.cs" />
+    <Compile Include="TransmissionSystem\Open.cs" />
+    <Compile Include="TransmissionSystem\Opening.cs" />
+    <Compile Include="TransmissionSystem\StayOpen.cs" />
+    <Compile Include="TransmissionSystem\TransmissionGate.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
