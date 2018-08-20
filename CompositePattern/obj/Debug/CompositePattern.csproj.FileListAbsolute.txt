@@ -7,3 +7,6 @@ c:\users\tyx\documents\visual studio 2013\Projects\DesignPattern\CompositePatter
 D:\Documents\Visual Studio 2013\Projects\DesignPattern\CompositePattern\bin\Debug\CompositePattern.exe.config
 D:\Documents\Visual Studio 2013\Projects\DesignPattern\CompositePattern\obj\Debug\CompositePattern.exe
 D:\Documents\Visual Studio 2013\Projects\DesignPattern\CompositePattern\obj\Debug\CompositePattern.pdb
+D:\Documents\Visual Studio 2013\Projects\DesignPattern\CompositePattern\bin\Debug\CompositePattern.exe
+D:\Documents\Visual Studio 2013\Projects\DesignPattern\CompositePattern\bin\Debug\CompositePattern.pdb
+D:\Documents\Visual Studio 2013\Projects\DesignPattern\CompositePattern\obj\Debug\CompositePattern.csprojResolveAssemblyReference.cache
