@@ -41,6 +41,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FSM\Attack.cs" />
+    <Compile Include="FSM\HeroStateMachine.cs" />
+    <Compile Include="FSM\Idle.cs" />
+    <Compile Include="FSM\JyTransition.cs" />
+    <Compile Include="FSM\Jump.cs" />
+    <Compile Include="FSM\State.cs" />
+    <Compile Include="FSM\StateMachine.cs" />
+    <Compile Include="FSM\Transition.cs" />
+    <Compile Include="FSM\Walk.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RoleSystem\Final.cs" />
