@@ -4,3 +4,6 @@ D:\Documents\Visual Studio 2013\Projects\DesignPattern\CommandPattern\bin\Debug\
 D:\Documents\Visual Studio 2013\Projects\DesignPattern\CommandPattern\obj\Debug\CommandPattern.csprojResolveAssemblyReference.cache
 D:\Documents\Visual Studio 2013\Projects\DesignPattern\CommandPattern\obj\Debug\CommandPattern.exe
 D:\Documents\Visual Studio 2013\Projects\DesignPattern\CommandPattern\obj\Debug\CommandPattern.pdb
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\CommandPattern\bin\Debug\CommandPattern.exe.config
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\CommandPattern\obj\Debug\CommandPattern.exe
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\CommandPattern\obj\Debug\CommandPattern.pdb
