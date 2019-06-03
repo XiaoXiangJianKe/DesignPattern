@@ -1,0 +1,6 @@
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\08-BridgePattern\bin\Debug\08-BridgePattern.exe.config
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\08-BridgePattern\bin\Debug\08-BridgePattern.exe
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\08-BridgePattern\bin\Debug\08-BridgePattern.pdb
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\08-BridgePattern\obj\Debug\08-BridgePattern.csprojResolveAssemblyReference.cache
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\08-BridgePattern\obj\Debug\08-BridgePattern.exe
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\08-BridgePattern\obj\Debug\08-BridgePattern.pdb
