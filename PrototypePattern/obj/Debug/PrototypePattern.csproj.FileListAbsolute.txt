@@ -1,0 +1,6 @@
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\PrototypePattern\bin\Debug\PrototypePattern.exe.config
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\PrototypePattern\bin\Debug\PrototypePattern.exe
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\PrototypePattern\bin\Debug\PrototypePattern.pdb
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\PrototypePattern\obj\Debug\PrototypePattern.csprojResolveAssemblyReference.cache
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\PrototypePattern\obj\Debug\PrototypePattern.exe
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\PrototypePattern\obj\Debug\PrototypePattern.pdb

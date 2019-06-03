@@ -1,0 +1,6 @@
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\07-AdapterPattern\bin\Debug\07-AdapterPattern.exe.config
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\07-AdapterPattern\bin\Debug\07-AdapterPattern.exe
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\07-AdapterPattern\bin\Debug\07-AdapterPattern.pdb
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\07-AdapterPattern\obj\Debug\07-AdapterPattern.csprojResolveAssemblyReference.cache
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\07-AdapterPattern\obj\Debug\07-AdapterPattern.exe
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\07-AdapterPattern\obj\Debug\07-AdapterPattern.pdb

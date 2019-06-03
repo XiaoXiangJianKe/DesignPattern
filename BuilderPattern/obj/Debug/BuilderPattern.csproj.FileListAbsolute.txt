@@ -1,0 +1,6 @@
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\BuilderPattern\bin\Debug\BuilderPattern.exe.config
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\BuilderPattern\bin\Debug\BuilderPattern.exe
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\BuilderPattern\bin\Debug\BuilderPattern.pdb
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\BuilderPattern\obj\Debug\BuilderPattern.csprojResolveAssemblyReference.cache
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\BuilderPattern\obj\Debug\BuilderPattern.exe
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\BuilderPattern\obj\Debug\BuilderPattern.pdb
