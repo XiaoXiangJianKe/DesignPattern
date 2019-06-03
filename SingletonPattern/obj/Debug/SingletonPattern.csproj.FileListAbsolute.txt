@@ -1,0 +1,6 @@
+D:\Documents\Visual Studio 2013\Projects\DesignPattern\SingletonPattern\bin\Debug\SingletonPattern.exe.config
+D:\Documents\Visual Studio 2013\Projects\DesignPattern\SingletonPattern\bin\Debug\SingletonPattern.exe
+D:\Documents\Visual Studio 2013\Projects\DesignPattern\SingletonPattern\bin\Debug\SingletonPattern.pdb
+D:\Documents\Visual Studio 2013\Projects\DesignPattern\SingletonPattern\obj\Debug\SingletonPattern.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2013\Projects\DesignPattern\SingletonPattern\obj\Debug\SingletonPattern.exe
+D:\Documents\Visual Studio 2013\Projects\DesignPattern\SingletonPattern\obj\Debug\SingletonPattern.pdb

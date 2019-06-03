@@ -6,33 +6,29 @@ using System.Threading.Tasks;
 
 namespace CommandPattern
 {
-    public class ClassA
+    public abstract class BaseClass
     {
-        public delegate void TestEventHandler();
-        public event TestEventHandler TestEvent;
+        public abstract void Fun1();
+    }
+    public class ClassA : BaseClass
+    {
 
-        public virtual void Fun1(TestEventHandler test)
+        public override void Fun1()
         {
-            TestEvent += test;
-            TestEvent();
+            Console.WriteLine("ClassA");
         }
     }
 
     public class ClassB : ClassA
     {
-        public ClassB()
+        public override void Fun1()
         {
-            Fun1(Test);
+            Console.WriteLine("ClassB");
         }
 
-        public override void Fun1(ClassA.TestEventHandler test)
+        public void Fun2()
         {
-            base.Fun1(test);
-        }
-
-        public void Test()
-        {
-            Console.WriteLine("测试");
+            Console.WriteLine("ClassB");
         }
     }
 
@@ -54,11 +50,15 @@ namespace CommandPattern
             invoker.ExecuteCommand();
 
             int[,] array = new int[5, 10];
-            Console.WriteLine(string.Format("array的行："+array.GetLength(0)));
+            Console.WriteLine(string.Format("array的行：" + array.GetLength(0)));
             Console.WriteLine(string.Format("array的列：" + array.GetLength(1)));
             Console.WriteLine(string.Format("array的元素个数：" + array.Length));
 
-            ClassB classB = new ClassB();
+           BaseClass baseClass = new ClassA();
+           baseClass.Fun1();
+
+           BaseClass baseClass1 = new ClassB();
+           baseClass1.Fun1();
         }
     }
 }
