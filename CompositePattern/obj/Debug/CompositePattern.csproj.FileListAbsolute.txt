@@ -10,3 +10,6 @@ D:\Documents\Visual Studio 2013\Projects\DesignPattern\CompositePattern\obj\Debu
 D:\Documents\Visual Studio 2013\Projects\DesignPattern\CompositePattern\bin\Debug\CompositePattern.exe
 D:\Documents\Visual Studio 2013\Projects\DesignPattern\CompositePattern\bin\Debug\CompositePattern.pdb
 D:\Documents\Visual Studio 2013\Projects\DesignPattern\CompositePattern\obj\Debug\CompositePattern.csprojResolveAssemblyReference.cache
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\CompositePattern\bin\Debug\CompositePattern.exe.config
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\CompositePattern\obj\Debug\CompositePattern.exe
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\CompositePattern\obj\Debug\CompositePattern.pdb

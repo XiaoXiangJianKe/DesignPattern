@@ -1,0 +1,6 @@
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\12-Flyweight\bin\Debug\12-Flyweight.exe.config
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\12-Flyweight\bin\Debug\12-Flyweight.exe
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\12-Flyweight\bin\Debug\12-Flyweight.pdb
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\12-Flyweight\obj\Debug\12-Flyweight.csprojResolveAssemblyReference.cache
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\12-Flyweight\obj\Debug\12-Flyweight.exe
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\12-Flyweight\obj\Debug\12-Flyweight.pdb

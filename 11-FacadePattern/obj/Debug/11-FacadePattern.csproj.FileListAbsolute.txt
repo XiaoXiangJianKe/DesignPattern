@@ -1,0 +1,6 @@
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\11-FacadePattern\bin\Debug\11-FacadePattern.exe.config
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\11-FacadePattern\bin\Debug\11-FacadePattern.exe
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\11-FacadePattern\bin\Debug\11-FacadePattern.pdb
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\11-FacadePattern\obj\Debug\11-FacadePattern.csprojResolveAssemblyReference.cache
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\11-FacadePattern\obj\Debug\11-FacadePattern.exe
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\11-FacadePattern\obj\Debug\11-FacadePattern.pdb
