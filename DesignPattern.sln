@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-FacadePattern", "11-Faca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-FlyweightPattern", "12-FlyweightPattern\12-FlyweightPattern.csproj", "{3D769765-62B5-485A-86ED-2F014148D5D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-ProxyPattern", "13-ProxyPattern\13-ProxyPattern.csproj", "{D5EBF6FC-8C9F-482E-9868-CEB17F9ED076}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14-ChainOfResponsibilityPattern", "14-ChainOfResponsibilityPattern\14-ChainOfResponsibilityPattern.csproj", "{AFAA3DC9-4B72-426B-B48B-7393FB67825B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{3D769765-62B5-485A-86ED-2F014148D5D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D769765-62B5-485A-86ED-2F014148D5D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D769765-62B5-485A-86ED-2F014148D5D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5EBF6FC-8C9F-482E-9868-CEB17F9ED076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5EBF6FC-8C9F-482E-9868-CEB17F9ED076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5EBF6FC-8C9F-482E-9868-CEB17F9ED076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5EBF6FC-8C9F-482E-9868-CEB17F9ED076}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFAA3DC9-4B72-426B-B48B-7393FB67825B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFAA3DC9-4B72-426B-B48B-7393FB67825B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFAA3DC9-4B72-426B-B48B-7393FB67825B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFAA3DC9-4B72-426B-B48B-7393FB67825B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,6 @@
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\13-ProxyPattern\bin\Debug\ProxyPattern.exe.config
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\13-ProxyPattern\obj\Debug\ProxyPattern.exe
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\13-ProxyPattern\obj\Debug\ProxyPattern.pdb
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\13-ProxyPattern\bin\Debug\ProxyPattern.exe
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\13-ProxyPattern\bin\Debug\ProxyPattern.pdb
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\13-ProxyPattern\obj\Debug\13-ProxyPattern.csprojResolveAssemblyReference.cache
