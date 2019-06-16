@@ -1,0 +1,6 @@
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\19-MementoPattern\bin\Debug\19-MementoPattern.exe.config
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\19-MementoPattern\bin\Debug\19-MementoPattern.exe
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\19-MementoPattern\bin\Debug\19-MementoPattern.pdb
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\19-MementoPattern\obj\Debug\19-MementoPattern.csprojResolveAssemblyReference.cache
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\19-MementoPattern\obj\Debug\19-MementoPattern.exe
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\19-MementoPattern\obj\Debug\19-MementoPattern.pdb

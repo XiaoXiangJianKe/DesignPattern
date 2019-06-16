@@ -1,0 +1,6 @@
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\17-IteratorPattern\bin\Debug\17-IteratorPattern.exe.config
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\17-IteratorPattern\bin\Debug\17-IteratorPattern.exe
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\17-IteratorPattern\bin\Debug\17-IteratorPattern.pdb
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\17-IteratorPattern\obj\Debug\17-IteratorPattern.csprojResolveAssemblyReference.cache
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\17-IteratorPattern\obj\Debug\17-IteratorPattern.exe
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\17-IteratorPattern\obj\Debug\17-IteratorPattern.pdb

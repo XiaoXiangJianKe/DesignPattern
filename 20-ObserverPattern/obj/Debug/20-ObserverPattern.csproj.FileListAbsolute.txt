@@ -1,0 +1,6 @@
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\20-ObserverPattern\bin\Debug\20-ObserverPattern.exe.config
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\20-ObserverPattern\bin\Debug\20-ObserverPattern.exe
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\20-ObserverPattern\bin\Debug\20-ObserverPattern.pdb
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\20-ObserverPattern\obj\Debug\20-ObserverPattern.csprojResolveAssemblyReference.cache
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\20-ObserverPattern\obj\Debug\20-ObserverPattern.exe
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\20-ObserverPattern\obj\Debug\20-ObserverPattern.pdb
