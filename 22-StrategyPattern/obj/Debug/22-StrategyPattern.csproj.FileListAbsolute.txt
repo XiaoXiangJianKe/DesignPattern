@@ -1,0 +1,6 @@
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\22-StrategyPattern\bin\Debug\22-StrategyPattern.exe.config
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\22-StrategyPattern\bin\Debug\22-StrategyPattern.exe
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\22-StrategyPattern\bin\Debug\22-StrategyPattern.pdb
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\22-StrategyPattern\obj\Debug\22-StrategyPattern.csprojResolveAssemblyReference.cache
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\22-StrategyPattern\obj\Debug\22-StrategyPattern.exe
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\22-StrategyPattern\obj\Debug\22-StrategyPattern.pdb

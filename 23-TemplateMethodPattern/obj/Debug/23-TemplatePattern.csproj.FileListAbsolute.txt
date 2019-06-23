@@ -1,0 +1,9 @@
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\23-TemplatePattern\bin\Debug\23-TemplatePattern.exe.config
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\23-TemplatePattern\bin\Debug\23-TemplatePattern.exe
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\23-TemplatePattern\bin\Debug\23-TemplatePattern.pdb
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\23-TemplatePattern\obj\Debug\23-TemplatePattern.csprojResolveAssemblyReference.cache
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\23-TemplatePattern\obj\Debug\23-TemplatePattern.exe
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\23-TemplatePattern\obj\Debug\23-TemplatePattern.pdb
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\23-TemplateMethodPattern\bin\Debug\23-TemplatePattern.exe.config
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\23-TemplateMethodPattern\obj\Debug\23-TemplatePattern.exe
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\23-TemplateMethodPattern\obj\Debug\23-TemplatePattern.pdb

@@ -1,0 +1,6 @@
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\21-StatePattern\bin\Debug\StatePattern.exe.config
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\21-StatePattern\obj\Debug\StatePattern.exe
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\21-StatePattern\obj\Debug\StatePattern.pdb
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\21-StatePattern\bin\Debug\StatePattern.exe
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\21-StatePattern\bin\Debug\StatePattern.pdb
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\21-StatePattern\obj\Debug\21-StatePattern.csprojResolveAssemblyReference.cache
