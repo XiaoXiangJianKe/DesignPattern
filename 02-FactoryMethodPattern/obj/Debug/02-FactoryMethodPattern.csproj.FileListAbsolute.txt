@@ -1,0 +1,6 @@
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\02-FactoryMethodPattern\bin\Debug\02-FactoryMethodPattern.exe.config
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\02-FactoryMethodPattern\bin\Debug\02-FactoryMethodPattern.exe
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\02-FactoryMethodPattern\bin\Debug\02-FactoryMethodPattern.pdb
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\02-FactoryMethodPattern\obj\Debug\02-FactoryMethodPattern.csprojResolveAssemblyReference.cache
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\02-FactoryMethodPattern\obj\Debug\02-FactoryMethodPattern.exe
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\02-FactoryMethodPattern\obj\Debug\02-FactoryMethodPattern.pdb

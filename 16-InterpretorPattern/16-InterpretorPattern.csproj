@@ -47,6 +47,12 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TerminalExpression.cs" />
+    <Compile Include="计算器\AddExpression.cs" />
+    <Compile Include="计算器\Calculator.cs" />
+    <Compile Include="计算器\Expression.cs" />
+    <Compile Include="计算器\OperatorExpression.cs" />
+    <Compile Include="计算器\SubExpression.cs" />
+    <Compile Include="计算器\ValueExpression.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

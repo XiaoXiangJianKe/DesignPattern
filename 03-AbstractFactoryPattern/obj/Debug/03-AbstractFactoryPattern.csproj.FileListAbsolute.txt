@@ -1,0 +1,6 @@
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\03-AbstractFactoryPattern\bin\Debug\03-AbstractFactoryPattern.exe.config
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\03-AbstractFactoryPattern\bin\Debug\03-AbstractFactoryPattern.exe
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\03-AbstractFactoryPattern\bin\Debug\03-AbstractFactoryPattern.pdb
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\03-AbstractFactoryPattern\obj\Debug\03-AbstractFactoryPattern.csprojResolveAssemblyReference.cache
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\03-AbstractFactoryPattern\obj\Debug\03-AbstractFactoryPattern.exe
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\03-AbstractFactoryPattern\obj\Debug\03-AbstractFactoryPattern.pdb

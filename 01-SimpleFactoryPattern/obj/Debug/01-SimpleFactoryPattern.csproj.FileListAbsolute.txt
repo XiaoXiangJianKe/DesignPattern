@@ -1,0 +1,6 @@
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\01-SimpleFactoryPattern\bin\Debug\01-SimpleFactoryPattern.exe.config
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\01-SimpleFactoryPattern\bin\Debug\01-SimpleFactoryPattern.exe
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\01-SimpleFactoryPattern\bin\Debug\01-SimpleFactoryPattern.pdb
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\01-SimpleFactoryPattern\obj\Debug\01-SimpleFactoryPattern.csprojResolveAssemblyReference.cache
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\01-SimpleFactoryPattern\obj\Debug\01-SimpleFactoryPattern.exe
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\01-SimpleFactoryPattern\obj\Debug\01-SimpleFactoryPattern.pdb

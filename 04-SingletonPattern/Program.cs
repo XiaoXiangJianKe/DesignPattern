@@ -11,9 +11,6 @@ namespace SingletonPattern
         static void Main(string[] args)
         {
             SingletonA.Instance.Print();
-            SingletonB.Instance.Print();
-            SingletonC.Instance.Print();
-            SingletonD.Instance.Print();
         }
     }
 }

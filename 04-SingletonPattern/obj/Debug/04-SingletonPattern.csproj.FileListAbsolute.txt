@@ -1,0 +1,6 @@
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\04-SingletonPattern\bin\Debug\SingletonPattern.exe.config
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\04-SingletonPattern\obj\Debug\SingletonPattern.exe
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\04-SingletonPattern\obj\Debug\SingletonPattern.pdb
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\04-SingletonPattern\bin\Debug\SingletonPattern.exe
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\04-SingletonPattern\bin\Debug\SingletonPattern.pdb
+D:\我的文档\Visual Studio 2013\Projects\DesignPattern\04-SingletonPattern\obj\Debug\04-SingletonPattern.csprojResolveAssemblyReference.cache

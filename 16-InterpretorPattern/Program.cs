@@ -1,4 +1,5 @@
-﻿using System;
+﻿using InterpretorPattern.计算器;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -25,6 +26,12 @@ namespace InterpretorPattern
             {
                 expression.Interpret(context);
             }
+
+            string context1 = "1+2+3-4+1";
+            Calculator calculator = new Calculator();
+            calculator.Build(context1);
+            int result = calculator.Calculate();
+            Console.WriteLine("{0}={1}", context1, result);
         }
     }
 }
